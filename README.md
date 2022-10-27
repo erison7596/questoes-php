@@ -1,3 +1,40 @@
-<h1>Questões em php</h1>
-<p> Aqui resolvo alguns problemas que me pendem para ajudar, provavelmente terá comentarios para quem ajudei</p>
-<p> Lembrem-se de instalar o servidor php para poder testar os codigos</p>
+
+# Questões em PHP
+
+Repositório relativo a disciplina de programação com uso de PHP
+
+## Stack utilizada
+
+**Front-end:** HTML, CSS
+
+**Back-end:** PHP
+
+
+## Rodando localmente
+
+Clone o projeto
+
+```bash
+  git clone https://github.com/erison7596/questoes-php
+```
+
+Entre no diretório do projeto
+
+```bash
+  cd my-project
+```
+
+Baixe o PHP e instale
+```bash
+http://php.net/downloads.php 
+```
+
+Usar o servidor embutido do PHP.
+
+```bash
+php --version
+```
+```bash
+php -S localhost:8080
+```
+
